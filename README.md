@@ -12,15 +12,15 @@ $subcription
 Select-AzSubscription -Tenant <{TenantId}>
 ```
 
-### Create a new resource group and function application on Azure
+## Create a new resource group and function application on Azure
 
-## Publish ARM template
+### Publish ARM template
 
-Go to Templates in Azure portal
+Go to Templates in Azure portal and
 copy azuredeploy.json to newly created template.
 
 
-## Deploy ARM template
+### Deploy ARM template
 
 Modify the values for each of the below variables in run.ps1 as needed.
 
