@@ -195,7 +195,7 @@
         },
         "packageURL": {
             "type": "string",
-            "defaultValue": "https://pocazstest.blob.core.windows.net/pscode/w4eyphbvkfym4.zip",
+            "defaultValue": "https://pocazstest.blob.core.windows.net/pscode/AzFunAutoStartStop.zip",
             "metadata": {
                 "description": "Provide the package zip url."
               }
