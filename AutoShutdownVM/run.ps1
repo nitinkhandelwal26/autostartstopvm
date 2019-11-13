@@ -2,9 +2,9 @@
 param($Timer)
 
 # Specify the VMs that you want to stop. Modify or comment out below based on which VMs to check.
-$VMResourceGroupName = "Contoso"
-#$VMName = "ContosoVM1"
-#$TagName = "AutomaticallyStop"
+#$VMResourceGroupName = "VM1RG"
+#$VMName = "testVM1"
+$TagName = "AutomaticallyStop"
 
 # Stop on error
 $ErrorActionPreference = 'stop'
